@@ -1,4 +1,4 @@
-# 📚 Java Data Structures and Algorithms Practice
+# 📚 Java Data Structures and Algorithms
 
 This repository contains beginner to intermediate-level Java programs focusing on core **data structures and recursion**. It is designed for students, job seekers, and developers preparing for coding interviews or strengthening their Java fundamentals.
 
